@@ -1,8 +1,8 @@
 # Задача Коммивояжера и АРМ (автоматизированное место специалиста)
 ## Отчеты
 
-- Отчет по автоматизированному рабочему месту АРМ: [АРМ](/armtest/ARM_files/АРМ.md)
-- Отчет по задаче Коммивояжера: [Граф](/SalesmanProblem/KOMMI_files/Kommi.md)
+- Отчет по автоматизированному рабочему месту АРМ: [АРМ](https://github.com/MuharovTimur/SalesmanProblem-and-ARM/blob/main/Part%201%20ARM/writer.md)
+- Отчет по задаче Коммивояжера: [Граф](https://github.com/MuharovTimur/SalesmanProblem-and-ARM/blob/main/Part%202%20Salesman/Readme.md)
 
 ## Видео отчет
-Ссылка на YouTube: https://youtu.be/4SI1sy982LE
+Ссылка на YouTube: (https://www.youtube.com/watch?v=uDvkf6RjS_o)
