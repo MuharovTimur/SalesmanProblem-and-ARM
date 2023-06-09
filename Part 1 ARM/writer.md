@@ -3,7 +3,6 @@
 Реализовать автоматизированное рабочее место специалиста (АРМ) - цифрового писателя. Программа должна выполнять следующие функции:
 
 - Управление событиями
-- Авторизация пользователя
 - Создание и управление художественными проектами
 
 ## Анализ задачи
@@ -24,7 +23,7 @@
 ![image](https://github.com/MuharovTimur/SalesmanProblem-and-ARM/blob/main/Part%201%20ARM/АРМ3%20(2).jpg)
 
 ## Диаграмма классов
-![image](https://github.com/verxek/creative_work/assets/88082592/8ed7b10a-a785-4897-9b87-c0a82cfa953d)
+![image](https://github.com/MuharovTimur/SalesmanProblem-and-ARM/blob/main/Part%201%20ARM/ARM.jpg)
 
 ## Исходный код
 Исходный код представлен в репозитории: (https://github.com/MuharovTimur/SalesmanProblem-and-ARM/tree/main/Part%201%20ARM)
