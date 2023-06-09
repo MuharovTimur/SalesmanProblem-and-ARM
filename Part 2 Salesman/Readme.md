@@ -48,4 +48,4 @@
 
 ## Исходный код
 
-Исходный код представлен в репозитории: [https://github.com/HardMain/Creative-Task/tree/main/Part%202%20Salesman/Graph](https://github.com/HardMain/Creative-Task/tree/main/Part%202%20Salesman/Graph)
+Исходный код представлен в репозитории: [https://github.com/HardMain/Creative-Task/tree/main/Part%202%20Salesman/Graph](https://github.com/MuharovTimur/SalesmanProblem-and-ARM/tree/main/Part%202%20Salesman/Graph)
